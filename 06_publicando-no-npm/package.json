@@ -1,0 +1,15 @@
+{
+  "name": "@fernandoalbuquerque/06_publicando-no-npm",
+  "version": "1.0.3",
+  "description": "Módulo feito e publicado no curso full stack club",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fullstackclub"
+  ],
+  "author": "Fernando Albuquerque",
+  "license": "ISC"
+}
